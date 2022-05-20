@@ -6,8 +6,7 @@
 
 • The remaining stats are rolled using weighted distributions.
 
-• Age is rolled along a decay function, weighted towards 65 or above, where:
-
+• Age is rolled along a decay function, weighted towards 65, where:
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y = amplitude * e<sup>kx</sup>
 
